@@ -4,6 +4,9 @@
 Abstract Art Gallery Dataset<br>
 https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
 
+Sample image from dataset:<br>
+![](./sample_data.jpg)
+
 ## How to use:
 1. Open the .py file
 2. Update the path to the dataset
