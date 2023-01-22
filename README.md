@@ -14,7 +14,7 @@ Sample image from dataset:<br>
 
 ## Results:
 Results after 400 epochs:<br>
-![](./Results.jpg)
+![](./Results.png)
 
 ## Reference:
 https://arxiv.org/pdf/1511.06434v2
